@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/steven.etienne/!svn/ver/2/lab1
+END
+hello_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/steven.etienne/!svn/ver/3/lab1/hello_out.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/steven.etienne/!svn/ver/3/lab1/Makefile
+END
+lab1.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/steven.etienne/!svn/ver/2/lab1/lab1.c
+END
+hello_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/steven.etienne/!svn/ver/3/lab1/hello_main.c
+END
